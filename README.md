@@ -13,4 +13,4 @@
 [npm-coreui-react-download]: https://img.shields.io/npm/dm/@coreui/react.svg?style=flat-square
 [npm]: https://www.npmjs.com/package/@coreui/react
 
-This app uses \* [CoreUI](https://github.com/coreui/coreui) Free React Admin Template v4
+This app uses [CoreUI](https://github.com/coreui/coreui) Free React Admin Template v4
